@@ -103,6 +103,12 @@ GOOGLE_API_KEY=your_google_api_key_here
 ### Starting the Bot
 
 ```
+pip install -r requirements.txt
+
+```
+
+
+```
 python bot.py
 ```
 
